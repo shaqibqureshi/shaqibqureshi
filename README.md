@@ -36,8 +36,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=shaqibqureshi&theme=onedark&row=1&column=6)
 
-## 🐍 Contribution Snake
-
 ![GitHub Snake](https://raw.githubusercontent.com/shaqibqureshi/shaqibqureshi/output/github-snake.svg)
 
 

@@ -39,8 +39,8 @@
 
 ## 🐍 Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/ShaqibQureshi/shaqibqureshi/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/ShaqibQureshi/shaqibqureshi/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/shaqibqureshi/shaqibqureshi/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/shaqibqureshi/shaqibqureshi/output/github-snake-dark.svg#gh-dark-mode-only)
 
 
 

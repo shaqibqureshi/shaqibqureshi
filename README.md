@@ -36,11 +36,10 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=shaqibqureshi&theme=onedark&row=1&column=6)
 
-
 ## 🐍 Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/shaqibqureshi/shaqibqureshi/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/shaqibqureshi/shaqibqureshi/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake](https://raw.githubusercontent.com/shaqibqureshi/shaqibqureshi/output/github-snake.svg)
+
 
 
 

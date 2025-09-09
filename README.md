@@ -1,12 +1,4 @@
 
-
-## 👋 About Me
-Hi, I'm Shaqib!  
-- 🌱 Currently learning **Django, FastAPI, and PostgreSQL**  
-- 🔭 Exploring **Blockchain, Cloud, DevOps, and AI/ML**  
-- 💡 Interested in building scalable backend systems and intelligent applications  
-- 🎯 Goal: Become a **Software Engineer** specializing in backend + AI solutions
-
 # 👋 Hi, I'm Shaqib  
 
 🚀 Aspiring **Software Engineer** passionate about Backend, Cloud, Blockchain, and AI/ML.  

@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Shaqib  
 
 🚀 Aspiring **Software Engineer** passionate about Backend, Cloud, Blockchain, and AI/ML.  
-🌱 Currently learning **Django, FastAPI, and PostgreSQL**.  
+🌱 Currently learning **Django, and DevOps**.  
 💡 Exploring **DevOps, Cloud, LLMs, and RAG-based AI Agents**.  
 
 ---

@@ -24,10 +24,10 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Shaqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaqibqureshi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaqibqureshi&layout=compact&theme=tokyonight)  
+## 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=shaqibqureshi&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/shaqibqureshi?style=social)
+![GitHub stars](https://img.shields.io/github/stars/shaqibqureshi?style=social)
 ![GitHub Streak](https://streak-stats.demolab.com?user=shaqibqureshi&theme=tokyonight&hide_border=true)  
 
 ---

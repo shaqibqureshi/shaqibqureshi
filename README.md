@@ -8,14 +8,8 @@
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,mysql,docker,git,github,linux,aws,tensorflow,pytorch&theme=dark" /> </p>
 📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=shaqibqureshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqibqureshi&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=shaqibqureshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=shaqibqureshi&color=00F7FF&style=flat-square&label=Profile+Views" /> <img src="https://img.shields.io/github/followers/shaqibqureshi?style=flat-square&color=7B2FFF&label=Followers" /> <img src="https://img.shields.io/github/stars/shaqibqureshi?style=flat-square&color=00F7FF&label=Stars" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shaqibqureshi&theme=onedark&row=1&column=6&margin-w=10&margin-h=10" /> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=shaqibqureshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqibqureshi&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://img.shields.io/github/stars/shaqibqureshi?style=flat-square&color=00F7FF&label=Stars" /> <img src="https://img.shields.io/github/followers/shaqibqureshi?style=flat-square&color=7B2FFF&label=Followers&logo=github" /> <img src="https://komarev.com/ghpvc/?username=shaqibqureshi&color=00F7FF&style=flat-square&label=Profile+Views" /> </p>
 🤝 Connect With Me
 <p align="center"> <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,100:00F7FF&height=120&section=footer" /> </p>
-
-
 
 

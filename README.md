@@ -39,7 +39,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shaqibqureshi&theme=tokyonight&hide_border=true&background=0c0c14&ring=2ee6a6&fire=7b5cff&currStreakLabel=2ee6a6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaqibqureshi&theme=tokyonight&hide_border=true&background=0c0c14&ring=2ee6a6&fire=7b5cff&currStreakLabel=2ee6a6" />
 </div>
 <br/>
 

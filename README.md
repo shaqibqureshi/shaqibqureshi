@@ -42,8 +42,7 @@
 
 <!-- Stats + Top languages — side by side -->
 <img width="49%" src="https://github-readme-stats-nine-rho.vercel.app/api?username=shaqibqureshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0c0c14&title_color=2ee6a6&icon_color=7b5cff&text_color=c9cdd6&count_private=true&include_all_commits=true" alt="shaqibqureshi's GitHub stats" />
-<img width="49%" src="https://github-readme-stats-nine-rho.vercel.app/api/top-langs/?username=shaqibqureshi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0c0c14&title_color=2ee6a6&text_color=c9cdd6" alt="Top languages" />
-
+[GitHub Streak](https://streak-stats.demolab.com?user=shaqibqureshi&theme=tokyonight&hide_border=true)  
 <br/><br/>
 <img src="https://img.shields.io/github/stars/shaqibqureshi?style=flat-square&color=2ee6a6&label=Stars&labelColor=17171f" />
 <img src="https://img.shields.io/github/followers/shaqibqureshi?style=flat-square&color=7b5cff&label=Followers&labelColor=17171f&logo=github" />

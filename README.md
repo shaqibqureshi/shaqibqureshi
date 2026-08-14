@@ -53,6 +53,6 @@
 <br/>
 
 <!-- ===== CONTRIBUTION SNAKE (needs one-time setup, see note below) ===== -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shaqibqureshi/shaqibqureshi/output/snake.svg" alt="GitHub contribution snake animation" />
+<<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
